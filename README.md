@@ -9,7 +9,7 @@
 ---
 
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KimberlyOlivas&show_icons=true&count_private=true&include_all_commits=true&hide=issues&title_color=008080&text_color=4d4d4d&icon_color=ffdb4d"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KimberlyOlivas&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs&title_color=008080&text_color=4d4d4d&icon_color=ffdb4d"/>
 </span>
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimberlyOlivas&langs_count=6&layout=compact&title_color=008080&text_color=4d4d4d"/>
