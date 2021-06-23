@@ -9,10 +9,10 @@
 ---
 
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KimberlyOlivas&custom_title=GitHub%20stats:&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs&hide_rank=true&title_color=008080&text_color=4d4d4d&icon_color=ffdb4d"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KimberlyOlivas&custom_title=GitHub%20stats:&show_icons=true&count_private=true&include_all_commits=true&hide=issues&hide_rank=true&title_color=008080&text_color=4d4d4d&icon_color=ffdb4d"/>
 </span>
 <span>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KimberlyOlivas&layout=compact&custom_title=This%20week%20I've%20been%20working%20on:&title_color=008080"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KimberlyOlivas&langs_count=6&layout=compact&custom_title=This%20week%20I've%20been%20working%20on:&title_color=008080"/>
 </span>
 
 ---
